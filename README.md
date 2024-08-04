@@ -23,5 +23,4 @@ To run this project, you need to have Power BI Desktop installed on your compute
 1. Clone this repository to your local machine.
    ```bash
    git clone https://github.com/Rahulchafle/Hospitality-Domain.git
-   git clone https://github.com/Rahulchafle/Hospitality-Domain.git
    cd Hospitality-Domain
